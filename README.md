@@ -1,6 +1,6 @@
 # 📚 Semantic Book Recommender with LLMs
 
-This repository contains all the code to complete the freeCodeCamp course: **"Build a Semantic Book Recommender with LLM"** It combines modern NLP techniques, vector search, zero-shot classification, and sentiment analysis to build an intelligent book recommendation system.
+This repository contains all the code to  **"Build a Semantic Book Recommender with LLM"** It combines modern NLP techniques, vector search, zero-shot classification, and sentiment analysis to build an intelligent book recommendation system.
 
 ---
 
